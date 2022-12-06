@@ -1,4 +1,9 @@
 {
     "xP21": "https://xva-upt.rfsadreno.repl.co",
-    "xP22": "https://xva-api.onrender.com"
+    "xP22": "https://xva-api.onrender.com",
+    "xP23": {
+        "sfw": "https://api.waifu.pics/sfw",
+        "nsfw": "https://api.waifu.pics/nsfw",
+        "quote": "https://animechan.vercel.app/api/random"
+    }
 }
