@@ -4,6 +4,7 @@
         "main": "https://xva-api.onrender.com",
         "sfw": "https://api.waifu.pics/sfw",
         "nsfw": "https://api.waifu.pics/nsfw",
-        "quote": "https://animechan.vercel.app/api/random"
+        "quote": "https://animechan.vercel.app/api/random",
+        "popcat": "https://api.popcat.xyz"
     }
 }
